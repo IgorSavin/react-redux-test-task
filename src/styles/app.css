@@ -1,0 +1,13 @@
+body {
+  background: #3A3A3A;
+}
+
+.app {
+  margin: 50px;
+  padding: 50px;
+  background: #111;
+}
+
+.app-flights {
+  margin-top: 20px;
+}
