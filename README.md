@@ -6,6 +6,4 @@
 4) npm run serve
 5) open http://localhost:8080/
 
-or
-
-open https://igorsavin.github.io/react-redux-test-task/ and see demo
+or open https://igorsavin.github.io/react-redux-test-task/ and see demo
